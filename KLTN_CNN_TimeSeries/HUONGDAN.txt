@@ -1,0 +1,14 @@
+OS: Windows 10/11
+Python: 3.11.6 
+
+
+BƯỚC 1: Tải thư viện cần thiết để khởi chạy đề tài
+-- Mở Command Promt tại thư mục đề tài ".\KLTN_CNN_TimeSeries" và thực hiện nhập lệnh sau để tải các thư viện cần thiết:
+pip install -r requirements.txt
+
+BƯỚC 2: Thực hiện khởi chạy đề tài với Streamlit
+-- Sau khi thực hiện tải các thư viện cần thiết, ta tiếp tục nhập lệnh sau để khởi động Streamlit:
+streamlit run .\source\main.py
+
+-- Để truy cập đến trang của Streamlit, ta mở một trình duyệt web và nhập địa chỉ URL để truy cập: 
+http://localhost:8501

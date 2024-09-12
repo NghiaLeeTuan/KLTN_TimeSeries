@@ -1,0 +1,12 @@
+keras==2.14.0
+numpy==1.24.3
+pandas==2.1.0
+plotly==5.17.0
+scikit-learn==1.3.0
+streamlit==1.28.0
+tensorflow==2.14.0
+torch==2.1.0
+scikeras==0.12.0
+scikit-optimize
+
+# pipreqs --force --encoding utf-8 "C:\Users\user\Documents\HK1-N4\TLCN\KLTN\KLTN_CNN_TimeSeries\source"  
